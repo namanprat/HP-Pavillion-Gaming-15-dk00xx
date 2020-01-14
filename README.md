@@ -17,7 +17,6 @@ This my first project that I'm posting here so please don't judge me :). The goa
 3. Action keys 
 4. Power management
 5. Trackpad (Gestures using 3 or more fingers not working yet)
-
 ### Not working:-
 1. SD card slot
 2. Brightness control
