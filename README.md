@@ -26,7 +26,7 @@ This my first project that I'm posting here so please don't judge me :). The goa
 5. Shitty battery
 
 # How to actually get macOS Catalina running?
-##BIOS settings
+## BIOS settings
 This is very important to get macOS running smooth and stable.
 
 
