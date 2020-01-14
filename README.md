@@ -4,6 +4,8 @@ This my first project that I'm posting here so please don't judge me :). The goa
 | ------------- | ------------- |
 | *CPU*           | i7- 9750h     |
 | *GPU*          | GTX 1660Ti +UHD 630  |
+| *RAM*| 12 GB DDR4|
+
 
 # v1.0
 ### Working:-
@@ -23,6 +25,9 @@ This my first project that I'm posting here so please don't judge me :). The goa
 4. Webcam
 5. Shitty battery
 
-**EFI**-
+# How to actually get macOS Catalina running?
+##BIOS settings
+This is very important to get macOS running smooth and stable.
+
 
 
