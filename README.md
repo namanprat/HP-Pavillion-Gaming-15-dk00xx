@@ -1,4 +1,4 @@
-This my first project that I'm posting here so please don't judge me :). The goal with this hackintosh is to make it as close to it's original counterpart mainly for school and because I am free for an entire year (don't ask why). I wouldn't have been able to do this project without the help of [RAFFAY's EFI file on tonymacx86.](https://www.tonymacx86.com/members/raffay.1356885/)
+This my first project that I'm posting here so please don't judge me :). The goal with this hackintosh is to make it as close to it's original counterpart mainly for school and because I am free for an entire year (don't ask why). I wouldn't have been able to do this project without the help of [RAFFAY's EFI file on tonymacx86.](https://www.tonymacx86.com/members/raffay.1356885/). I have made a lot of tweaks to improve the mac experience though.
 
 |                      | 15-dk052tx |
 | ------------- | ------------- |
