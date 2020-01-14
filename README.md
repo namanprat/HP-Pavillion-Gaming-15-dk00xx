@@ -2,6 +2,7 @@ This my first project that I'm posting here so please don't judge me :). The goa
 
 |                      | 15-dk052tx |
 | ------------- | ------------- |
+|*BIOS*| F.20|
 | *CPU*           | i7- 9750h     |
 | *GPU*          | GTX 1660Ti +UHD 630  |
 | *RAM*| 12 GB DDR4|
